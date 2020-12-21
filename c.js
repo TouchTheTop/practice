@@ -8,7 +8,7 @@ program
   .description("clone something.")
   .action((source, destination, cmdObj) => {
     console.log(
-      `start1 cloning from ${source} to ${destination} width depth ${cmdObj.depths}`
+      `start cloning from ${source} to ${destination} width depth ${cmdObj.depths}`
     );
   });
 

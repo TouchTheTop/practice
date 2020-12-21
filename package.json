@@ -5,7 +5,7 @@
     "release-it": "^14.2.2"
   },
   "name": "practice",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "main": "c.js",
   "dependencies": {
     "_ansi-align@3.0.0@ansi-align": "^3.0.0",
