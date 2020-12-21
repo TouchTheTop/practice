@@ -462,6 +462,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
   },
+  "release-it": {
+    "github": {
+      "release": true
+    }
+  },
   "author": "",
   "license": "ISC",
   "description": ""
