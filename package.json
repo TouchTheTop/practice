@@ -462,6 +462,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
   },
+  "release-it": {
+    "npm": false
+  },
   "author": "",
   "license": "ISC",
   "description": ""
